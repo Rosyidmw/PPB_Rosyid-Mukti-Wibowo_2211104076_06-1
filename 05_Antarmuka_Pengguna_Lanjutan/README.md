@@ -154,7 +154,7 @@ class CustomScrollViewScreen extends StatelessWidget {
   }
 }
 ```
-Berikut adalah output penggunaan Flexible dan Expanded
+Berikut adalah output penggunaan Flexible dan Expanded <br>
 ![guided_flex](https://github.com/user-attachments/assets/3b7d290f-de72-4075-97e4-713bcbb11ff7)
 
 
@@ -389,7 +389,7 @@ class WisataPage extends StatelessWidget {
   }
 }
 ```
-Berikut ini hasil Running code tersebut pada Android Virtual Device
+Berikut ini hasil Running code tersebut pada Android Virtual Device <br>
 ![unguided1](https://github.com/user-attachments/assets/5ee218cb-dc3d-417c-8810-b5d5e7e31d15)
 ![unguided2](https://github.com/user-attachments/assets/2547e383-11a4-47ae-ad69-b97f4a9e9cb9)
 ![unguided3](https://github.com/user-attachments/assets/cdbb3b37-f24c-4c01-9ae6-a4bdefd7c079)
