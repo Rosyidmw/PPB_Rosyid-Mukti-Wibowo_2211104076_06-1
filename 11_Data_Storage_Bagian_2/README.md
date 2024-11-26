@@ -31,7 +31,7 @@ Cara kerja:
 ![login_firebase](https://github.com/user-attachments/assets/b82abc69-96aa-46f8-a95c-b5f87aebd275)
 
 2) Isikan semua data dan ikuti sesuai dengan modul yang ada hinggal terdownload sebuah file google-service.json, lalu ikuti modul untuk menyimpan file tersebut
-
+![google-service-json](https://github.com/user-attachments/assets/817136e8-f2e9-4079-970d-fce20e70261b)
 
 #### Praktikum
 1) Buat project baru, lalu buat notifikasi handler pada file main.dart. Jangan lupa juga untuk menambahkan packages yang dibutuhkan untuk membuat project ini. Maka file main.dart akan seperti ini :
