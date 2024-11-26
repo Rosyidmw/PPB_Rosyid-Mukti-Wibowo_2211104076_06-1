@@ -30,7 +30,7 @@ Cara kerja:
 1) Daftar dan login pada [Firebase](https://console.firebase.google.com/), lalu buat project baru
 ![login_firebase](https://github.com/user-attachments/assets/b82abc69-96aa-46f8-a95c-b5f87aebd275)
 
-2) Isikan semua data dan ikuti sesuai dengan modul yang ada hinggal terdownload sebuah file google-service.json, lalu ikuti modul untuk menyimpan file tersebut
+2) Isikan semua data dan ikuti sesuai dengan modul yang ada hinggal terdownload sebuah file google-service.json, lalu ikuti modul untuk menyimpan file tersebut <br>
 ![google-service-json](https://github.com/user-attachments/assets/817136e8-f2e9-4079-970d-fce20e70261b)
 
 #### Praktikum
@@ -196,7 +196,7 @@ class _MyNotificationScreenState extends State<MyNotificationScreen> {
 }
 ```
 
-3) Setelah selesai, maka running terlebih dahulu aplikasi yang sudah kita buat untuk mendapatkan token yang nantinya akan digunakan untuk keperluan notifikasi. Setelah mendapatkan token, maka kita melakukan konfigurasi pada Cloud Messaging untuk membuat firebase notification messages. Lalu isikan semua keperluan yang diminta, dan tekan tombol send test message agar notifikasi dapat masuk ke dalam emulator. Jangan lupa untuk mengaktifkan permission untuk notifikasi.
+3) Setelah selesai, maka running terlebih dahulu aplikasi yang sudah kita buat untuk mendapatkan token yang nantinya akan digunakan untuk keperluan notifikasi. Setelah mendapatkan token, maka kita melakukan konfigurasi pada Cloud Messaging untuk membuat firebase notification messages. Lalu isikan semua keperluan yang diminta, dan tekan tombol send test message agar notifikasi dapat masuk ke dalam emulator. Jangan lupa untuk mengaktifkan permission untuk notifikasi. <br>
 ![aktifin_permission](https://github.com/user-attachments/assets/f4c25bcf-5e16-45bf-adcb-a89f5e5aad4c)
 
 Hasil output dari code tersebut<br>
